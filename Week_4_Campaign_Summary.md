@@ -64,3 +64,6 @@ The objective is to educate employees about cybersecurity best practices, reduce
 
 ## Final Review
 The campaign combines awareness education, practical communication, behavioral reinforcement, incident reporting, controlled simulation, measurable objectives, and continuous improvement. It is designed to be realistic, clear, and implementable for a hypothetical organization.
+
+
+> The complete detailed campaign plan is provided in the accompanying DOCX file.
